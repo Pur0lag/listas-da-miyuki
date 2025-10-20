@@ -1,0 +1,1 @@
+print(f'Arredondado: {round(float(input("Digite um número: ")))}')
